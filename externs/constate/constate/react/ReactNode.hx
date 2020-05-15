@@ -1,0 +1,2 @@
+package constate.react;
+typedef ReactNode = Null<ts.AnyOf7<String, Float, Bool, { }, constate.react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<constate.react.ReactElement<Dynamic, Dynamic>>, { }>>, constate.react.ReactNodeArray, constate.react.ReactPortal>>;

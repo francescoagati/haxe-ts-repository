@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "FormControlStatic") extern class FormControlStatic extends react_bootstrap.react.Component<react_bootstrap.formcontrolstatic.FormControlStaticProps, { }, Dynamic> { }

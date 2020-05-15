@@ -1,0 +1,21 @@
+package react_bootstrap.react;
+typedef AnimationEvent<T> = {
+	var animationName : String;
+	var elapsedTime : Float;
+	var pseudoElement : String;
+	var nativeEvent : ts.html.AnimationEvent;
+	var currentTarget : Dynamic;
+	var target : ts.html.EventTarget;
+	var bubbles : Bool;
+	var cancelable : Bool;
+	var defaultPrevented : Bool;
+	var eventPhase : Float;
+	var isTrusted : Bool;
+	function preventDefault():Void;
+	function isDefaultPrevented():Bool;
+	function stopPropagation():Void;
+	function isPropagationStopped():Bool;
+	function persist():Void;
+	var timeStamp : Float;
+	var type : String;
+};

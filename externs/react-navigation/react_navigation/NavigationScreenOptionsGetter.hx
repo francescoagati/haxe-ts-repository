@@ -1,0 +1,2 @@
+package react_navigation;
+typedef NavigationScreenOptionsGetter<Options> = (navigation:NavigationScreenProp<NavigationRoute<Dynamic>, NavigationParams>, screenProps:Any, theme:SupportedThemes) -> Options;

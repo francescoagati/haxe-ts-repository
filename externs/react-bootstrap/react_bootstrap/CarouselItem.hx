@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "CarouselItem") extern class CarouselItem extends react_bootstrap.react.Component<react_bootstrap.carouselitem.CarouselItemProps, { }, Dynamic> { }

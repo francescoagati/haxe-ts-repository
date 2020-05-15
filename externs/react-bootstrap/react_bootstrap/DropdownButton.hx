@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "DropdownButton") extern class DropdownButton extends react_bootstrap.react.Component<react_bootstrap.dropdownbutton.DropdownButtonProps, { }, Dynamic> { }

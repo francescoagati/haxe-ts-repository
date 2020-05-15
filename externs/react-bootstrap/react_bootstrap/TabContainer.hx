@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "TabContainer") extern class TabContainer extends react_bootstrap.react.Component<react_bootstrap.tabcontainer.TabContainerProps, { }, Dynamic> { }

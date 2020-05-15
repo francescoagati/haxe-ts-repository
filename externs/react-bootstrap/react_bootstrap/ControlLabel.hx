@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "ControlLabel") extern class ControlLabel extends react_bootstrap.react.Component<react_bootstrap.controllabel.ControlLabelProps, { }, Dynamic> { }

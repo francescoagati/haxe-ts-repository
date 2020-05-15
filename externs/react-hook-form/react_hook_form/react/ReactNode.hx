@@ -1,0 +1,2 @@
+package react_hook_form.react;
+typedef ReactNode = Null<ts.AnyOf7<String, Float, Bool, { }, react_hook_form.react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<react_hook_form.react.ReactElement<Dynamic, Dynamic>>, { }>>, react_hook_form.react.ReactNodeArray, react_hook_form.react.ReactPortal>>;

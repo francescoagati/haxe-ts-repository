@@ -1,0 +1,2 @@
+package react_hook_form;
+typedef ValidationResolver<FormValues, ValidationContext> = ts.AnyOf2<(values:FormValues) -> ts.AnyOf3<SchemaValidationSuccess<FormValues>, SchemaValidationError<FormValues>, ts.lib.Promise<SchemaValidationResult<FormValues>>>, (values:FormValues, validationContext:ValidationContext) -> ts.AnyOf3<SchemaValidationSuccess<FormValues>, SchemaValidationError<FormValues>, ts.lib.Promise<SchemaValidationResult<FormValues>>>>;

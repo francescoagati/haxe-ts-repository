@@ -1,0 +1,2 @@
+package react_navigation;
+typedef NavigationScreenConfig<Options, NavigationScreenPropType, ScreenProps> = ts.AnyOf2<Options, (navigationOptionsContainer:NavigationScreenConfigProps<NavigationScreenPropType, ScreenProps> & { var navigationOptions : Options; }) -> Options>;

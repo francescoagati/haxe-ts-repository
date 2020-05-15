@@ -1,0 +1,2 @@
+package react;
+typedef ReactNode = Null<ts.AnyOf7<String, Float, Bool, { }, ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<ReactElement<Dynamic, Dynamic>>, { }>>, ReactNodeArray, ReactPortal>>;

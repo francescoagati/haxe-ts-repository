@@ -1,0 +1,2 @@
+package node.zlib;
+typedef InputType = ts.AnyOf12<String, ts.lib.Uint8Array, ts.lib.ArrayBuffer, ts.lib.Uint8ClampedArray, ts.lib.Uint16Array, ts.lib.Uint32Array, ts.lib.Int8Array, ts.lib.Int16Array, ts.lib.Int32Array, ts.lib.Float32Array, ts.lib.Float64Array, ts.lib.DataView>;

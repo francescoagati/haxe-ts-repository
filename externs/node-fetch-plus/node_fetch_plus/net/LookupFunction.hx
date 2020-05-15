@@ -1,0 +1,2 @@
+package node_fetch_plus.net;
+typedef LookupFunction = (hostname:String, options:node_fetch_plus.dns.LookupOneOptions, callback:(err:Null<global.nodejs.ErrnoException>, address:String, family:Float) -> Void) -> Void;

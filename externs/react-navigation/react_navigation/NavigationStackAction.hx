@@ -1,0 +1,2 @@
+package react_navigation;
+typedef NavigationStackAction = ts.AnyOf10<NavigationInitAction, NavigationNavigateAction, NavigationBackAction, NavigationSetParamsAction, NavigationResetAction, NavigationReplaceAction, NavigationPopAction, NavigationPushAction, NavigationPopToTopAction, NavigationCompleteTransitionAction>;

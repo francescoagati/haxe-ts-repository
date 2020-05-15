@@ -1,0 +1,2 @@
+package chakra_ui.react;
+typedef ReactNode = Null<ts.AnyOf7<String, Float, Bool, { }, chakra_ui.react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<chakra_ui.react.ReactElement<Dynamic, Dynamic>>, { }>>, chakra_ui.react.ReactNodeArray, chakra_ui.react.ReactPortal>>;

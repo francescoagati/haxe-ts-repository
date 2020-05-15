@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "FormControlFeedback") extern class FormControlFeedback extends react_bootstrap.react.Component<react_bootstrap.formcontrolfeedback.FormControlFeedbackProps, { }, Dynamic> { }

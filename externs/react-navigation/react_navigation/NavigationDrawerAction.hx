@@ -1,0 +1,2 @@
+package react_navigation;
+typedef NavigationDrawerAction = ts.AnyOf5<NavigationDrawerOpenedAction, NavigationDrawerClosedAction, NavigationOpenDrawerAction, NavigationCloseDrawerAction, NavigationToggleDrawerAction>;

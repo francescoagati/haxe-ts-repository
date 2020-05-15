@@ -1,0 +1,2 @@
+package react_hook_form;
+typedef Message = ts.AnyOf2<String, react_hook_form.react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<react_hook_form.react.ReactElement<Dynamic, Dynamic>>, { }>>>;

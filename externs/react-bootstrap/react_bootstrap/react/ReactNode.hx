@@ -1,0 +1,2 @@
+package react_bootstrap.react;
+typedef ReactNode = Null<ts.AnyOf7<String, Float, Bool, { }, react_bootstrap.react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<react_bootstrap.react.ReactElement<Dynamic, Dynamic>>, { }>>, react_bootstrap.react.ReactNodeArray, react_bootstrap.react.ReactPortal>>;

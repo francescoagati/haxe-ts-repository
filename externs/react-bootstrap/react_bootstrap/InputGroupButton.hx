@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "InputGroupButton") extern class InputGroupButton extends react_bootstrap.react.Component<react_bootstrap.inputgroupbutton.InputGroupButtonProps, { }, Dynamic> { }

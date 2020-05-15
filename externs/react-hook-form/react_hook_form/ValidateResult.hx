@@ -1,0 +1,2 @@
+package react_hook_form;
+typedef ValidateResult = Null<ts.AnyOf3<String, Bool, react_hook_form.react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<react_hook_form.react.ReactElement<Dynamic, Dynamic>>, { }>>>>;

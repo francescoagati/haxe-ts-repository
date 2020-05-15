@@ -1,0 +1,2 @@
+package react_use;
+typedef Element = ts.AnyOf2<(state:react_use.State__) -> react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<Dynamic>, { }>>, react.ReactElement<Dynamic, ts.AnyOf3<String, (props:Dynamic) -> Null<react.ReactElement<Dynamic, Dynamic>>, { }>>>;

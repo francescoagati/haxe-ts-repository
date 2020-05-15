@@ -1,0 +1,2 @@
+package react;
+typedef Factory<P> = ts.AnyOf2<() -> ReactElement<P, ts.AnyOf3<String, (props:Dynamic) -> Null<ReactElement<Dynamic, Dynamic>>, { }>>, (props:Dynamic) -> ReactElement<P, ts.AnyOf3<String, (props:Dynamic) -> Null<ReactElement<Dynamic, Dynamic>>, { }>>>;

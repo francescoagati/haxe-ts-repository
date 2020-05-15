@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "ListGroupItem") extern class ListGroupItem extends react_bootstrap.react.Component<react_bootstrap.listgroupitem.ListGroupItemProps, { }, Dynamic> { }

@@ -1,0 +1,2 @@
+package react_hook_form;
+typedef OnSubmit<FormValues> = ts.AnyOf2<(data:FormValues) -> ts.AnyOf2<Void, ts.lib.Promise<Void>>, (data:FormValues, event:react_hook_form.react.BaseSyntheticEvent<Dynamic, Dynamic, Dynamic>) -> ts.AnyOf2<Void, ts.lib.Promise<Void>>>;

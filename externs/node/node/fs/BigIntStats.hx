@@ -1,0 +1,32 @@
+package node.fs;
+@:jsRequire("fs", "BigIntStats") extern class BigIntStats {
+	var atimeNs : ts.lib.BigInt;
+	var mtimeNs : ts.lib.BigInt;
+	var ctimeNs : ts.lib.BigInt;
+	var birthtimeNs : ts.lib.BigInt;
+	function isFile():Bool;
+	function isDirectory():Bool;
+	function isBlockDevice():Bool;
+	function isCharacterDevice():Bool;
+	function isSymbolicLink():Bool;
+	function isFIFO():Bool;
+	function isSocket():Bool;
+	var dev : ts.lib.BigInt;
+	var ino : ts.lib.BigInt;
+	var mode : ts.lib.BigInt;
+	var nlink : ts.lib.BigInt;
+	var uid : ts.lib.BigInt;
+	var gid : ts.lib.BigInt;
+	var rdev : ts.lib.BigInt;
+	var size : ts.lib.BigInt;
+	var blksize : ts.lib.BigInt;
+	var blocks : ts.lib.BigInt;
+	var atimeMs : ts.lib.BigInt;
+	var mtimeMs : ts.lib.BigInt;
+	var ctimeMs : ts.lib.BigInt;
+	var birthtimeMs : ts.lib.BigInt;
+	var atime : ts.lib.Date_;
+	var mtime : ts.lib.Date_;
+	var ctime : ts.lib.Date_;
+	var birthtime : ts.lib.Date_;
+}

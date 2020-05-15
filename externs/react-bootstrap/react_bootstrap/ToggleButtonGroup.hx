@@ -1,0 +1,2 @@
+package react_bootstrap;
+@:jsRequire("react-bootstrap", "ToggleButtonGroup") extern class ToggleButtonGroup extends react_bootstrap.react.Component<react_bootstrap.togglebuttongroup.ToggleButtonGroupProps, { }, Dynamic> { }
