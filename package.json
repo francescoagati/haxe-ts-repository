@@ -16,6 +16,7 @@
     "graphql-request": "^1.8.2",
     "immer": "^6.0.5",
     "node-fetch-plus": "^1.0.6",
+    "node-nlp": "^4.4.0",
     "react": "^16.13.1",
     "react-hook-form": "^5.7.2",
     "react-navigation": "^4.3.9",
