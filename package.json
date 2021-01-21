@@ -15,7 +15,7 @@
     "formik": "^2.1.4",
     "graphql": "^15.0.0",
     "graphql-request": "^1.8.2",
-    "immer": "^6.0.5",
+    "immer": "^8.0.1",
     "node-fetch-plus": "^1.0.6",
     "node-nlp": "^4.4.0",
     "puppeteer": "^3.2.0",
